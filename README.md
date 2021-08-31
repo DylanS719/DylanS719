@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Dylan Sitarski!
+
+I am interested in learning about a lot of things, including physics, math, theology, and music.
+
+I currently study aerospace engineering, perform undergraduate research in material science, and am a student leader in the Campus Fellowship student ministry.
+
+I like to read, run, play guitar, sketch, boulder, and do lots with friends!
+
 <!--
 **DylanS719/DylanS719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
